@@ -1,0 +1,37 @@
+
+Tutorial: Mi PC como Despertador con Windows 7: https://www.youtube.com/watch?v=CXmrpDnn5hw
+
+
+Programador de tareas de window7
+
+	1_primero vamos a "inicio/right+click/Administrar", se abrirá "Administración de equipos"
+
+	2_en Administración de equipos elegimos "Programador de tareas"
+
+	3_luego vamos a "Administrador de equipos/Programador de tareas/Tareas activas"
+
+	4_ahora vamos a la lista de items derecha y seleccionamos "Crear tarea"
+
+	5_se abrirá una ventan contextual "Crear tarea/General", allí, indicaremos nombre, autor, descripción
+
+	6_seleccionar en "Crear tarea/General", "Ejecutar tanto si el usuario inició sesión como si no"
+
+	7_seleccionar en "Crear tarea/General", "Ejecutar con los provilegios más altos"
+
+	8_ahora vamos a "Crear tarea/Desencadenadores/Nuevo desencadenador"
+
+	9_indicamos en "Crear tarea/Desencadenadores/Nuevo desencadenador", la frecuencia; diario, una vez.., 
+
+	así, como el inicio en "horas", luego le damos aceptar y cerramos esa ventana
+
+	10_ahora nos vamos a "Crear tarea/Acciones/Nueva acción"
+
+	11_y en "Crear tarea/Acciones/Nueva acción", seleccionamos un archivo de música en "Examinar", luego le damos aceptar y cerramos esa ventana
+
+	12_ahora vamos a "Crear tarea/Condiciones"
+
+	13_si estamos en "PC", solo debemos activar la opción "Activar el equipo para ejecutar esta tarea"
+
+	14_si estamos en una lapto, debemos deactivar la opción "Iniciar la tarea sólo si el equipo está conecta a la corriente alterna", le damos aceptar y cerramos esa ventana
+
+	15_colocar la PC, en modo hibernación ó la dejamos encendida
